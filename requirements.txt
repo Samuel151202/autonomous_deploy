@@ -1,0 +1,19 @@
+#Basic function
+numpy
+pandas
+#Image traitement
+opencv-python
+#Image management (read,write,save)
+matplotlib
+Pillow
+#Cloud
+google-cloud-storage
+#notebook
+jupyter
+#model
+scikit-learn
+tensorflow
+# API
+fastapi
+uvicorn
+python-multipart
